@@ -10,4 +10,4 @@ Frontend: HTML5, CSS3, JavaScript (ES6+)
 Styling: Bulma, Font Awesome
 Build Tool: Vite
 API: exchangeratesapi.io
-
+https://dom796.github.io/package/
